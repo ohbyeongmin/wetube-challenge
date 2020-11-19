@@ -1,10 +1,8 @@
 {
   "name": "wetube-challenge",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC",
+  "description": "wetube cloning",
+  "author": "ohbyeongmin",
   "dependencies": {
     "express": "^4.17.1"
   }
